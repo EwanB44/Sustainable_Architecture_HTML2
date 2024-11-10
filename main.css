@@ -67,7 +67,7 @@ body {
 }
 
 .para{
-    height:450px;
+    height:40%;
 }
 
 .links{
@@ -91,7 +91,7 @@ body {
 .left2{
     background-color: rgb(181, 176, 176);
     border: 6px double black;
-    
+    height:40%;
     
 }
 
